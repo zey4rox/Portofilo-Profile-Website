@@ -1,11 +1,11 @@
-# portofilo Profile Website
+# 🧑‍💻portofilo Profile Website
 ### v1.0.0
 
 A modern, responsive portofilo profile website with matrix rain effect, built with HTML, CSS, and JavaScript.
 
 ![Screen-Shot](./assets/images/screen-shot/shot.png "Screen-Shot")
 
-## Features
+## ✨Features
 
 - Interactive matrix rain animation
 - Responsive design for all devices
@@ -13,13 +13,13 @@ A modern, responsive portofilo profile website with matrix rain effect, built wi
 - Social media integration
 - Easy customization
 
-## Prerequisites
+## ⁉️Prerequisites
 
 Before you begin, ensure you have:
 * [Git](https://git-scm.com/downloads) installed
 * Modern web browser (Chrome, Firefox, Edge)
 
-## Installation
+## 🔃⁉Installation
 
 To install this project:
 

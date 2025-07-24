@@ -19,7 +19,7 @@ Before you begin, ensure you have:
 * [Git](https://git-scm.com/downloads) installed
 * Modern web browser (Chrome, Firefox, Edge)
 
-## 🔃⁉Installation
+## 🔃Installation
 
 To install this project:
 

@@ -1,10 +1,5 @@
 # portofilo Profile Website
-
-![GitHub repo size](https://img.shields.io/github/repo-size/zey4rox/Portofilo-Profile-Website)
-![GitHub stars](https://img.shields.io/github/stars/zey4rox/Portofilo-Profile-Website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/zey4rox/Portofilo-Profile-Website?style=social)
-![GitHub all releases](https://img.shields.io/github/downloads/zey4rox/Portofilo-Porofile-Website/total?style=social)
-
+v1.0.0
 A modern, responsive portofilo profile website with matrix rain effect, built with HTML, CSS, and JavaScript.
 
 ![Screen-Shot](./assets/images/screen-shot/shot.png "Screen-Shot")
